@@ -1,5 +1,7 @@
 # Uploading to GitHub Using VS Code
 
+## If you're not signed into GitHub.
+
 1. Open the command palette by pressing `Ctrl + Shift + P` (`Cmd + Shift + P` on macOS) and type `Git Clone` and press `Enter` on the first choice.
 2. Choose "Clone from GitHub" and press `Enter`.
 3. It will ask you to sign in to your GitHub account and take you to the browser to authenticate.
@@ -8,4 +10,9 @@
 6. Now you should be logged in. Confirm by looking at the lower left of your VS Code window: you should see a user icon, and if you click on it, you should see your GitHub username.
 7. Open a window with your project in it. Preferably _only_ your project, as it will simplify these steps.
 8. Open the command palette (Ctrl/Cmd + Shift + P) and type `Git: Initialize Repository` and press `Enter`.
-9. Open the source control tab on the left sidebar (Ctrl/Cmd + Shift + G).
+9. Choose a folder to initialize the repository in--it should be the root level of the app you want to deploy.
+10. Open the source control tab on the left sidebar (Ctrl/Cmd + Shift + G).
+
+## If you're already signed into GitHub.
+
+... coming soon!
