@@ -16,7 +16,7 @@ What you will need to get started is:
 
 0. Make sure you have a working .env file with your MongoDB connection string and any other environment variables you need. If you don't have one, you can create one in the root directory of your project.
 
-1. Upload the all of contents of the project folder (EXCEPT `node_modules` and the `.env`) to a GitHub repository. The easiest way to do this is to create a repository using VS Code, _not_ through GitHub.
+1. Upload the all of contents of the project folder (EXCEPT `node_modules` and the `.env`) to a GitHub repository. See [vs-code-github.md](./vs-code-github.md) for instructions on how to do this using VS Code.
 
 2. Sign in to GitHub, then go to `Render.com` and choose "GitHub" for your login method.
 
